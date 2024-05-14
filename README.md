@@ -14,12 +14,12 @@ https://doi.org/10.1016/j.neucom.2024.127727.
 Keywords: Blind deblurring; Max-min prior; Non-linear prior; L0 and L1 norm minimization}
 
 ## Requirements
-MATLAB R2020b or later
-Image Processing Toolbox
+- MATLAB R2020b or later
+- Image Processing Toolbox
 
 ## Usage
-Run the Algorithm: Execute the "demo_deblurring.m" to perform the deblurring process.
-View Results: The deblurred image and estimated blur kernel will be displayed.
+1. Run the Algorithm: Execute the "demo_deblurring.m" to perform the deblurring process.
+2. View Results: The deblurred image and estimated blur kernel will be displayed.
 
 ## Acknowledgments
 Special thanks to Dr. Jinshan Pan and Dr. Liang Chen for generously making the codes available.
