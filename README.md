@@ -22,7 +22,7 @@ Keywords: Blind deblurring; Max-min prior; Non-linear prior; L0 and L1 norm mini
 2. View Results: The deblurred image and estimated blur kernel will be displayed.
 
 ## Acknowledgments
-Special thanks to Dr. Jinshan Pan and Dr. Liang Chen for generously making the codes available.
+Special thanks to Dr. Jinshan Pan and Dr. Liang Chen for generously making their codes available.
 
 
 Happy deblurring!
