@@ -27,3 +27,7 @@ Special thanks to Dr. Jinshan Pan and Dr. Liang Chen for generously making their
 
 
 Happy deblurring!
+
+
+**Related Work:**
+We also provide another approach using this prior in [eqtedaei/mm3-prior-deblur](https://github.com/eqtedaei/mm3-prior-deblur).
