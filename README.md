@@ -1,6 +1,6 @@
 # Blind Image Deblurring Using Both L0 and L1 Regularization of Max-min Prior
 
-Welcome to the MATLAB implementation of the paper titled **"Blind Image Deblurring Using Both L0 and L1 Regularization of Max-Min Prior"**. This repository contains all the necessary code to reproduce the results presented in the paper.
+Welcome to the MATLAB implementation of the paper titled **"Blind Image Deblurring Using Both L0 and L1 Regularization of Max-min Prior"**. This repository contains all the necessary code to reproduce the results presented in the paper.
 <img width="1428" height="808" alt="fd" src="https://github.com/user-attachments/assets/b254a41c-5d9e-405f-9d0b-2a4c2b0eaffc" />
 
 {Blind image deblurring using both L0 and L1 regularization of Max-min prior,
